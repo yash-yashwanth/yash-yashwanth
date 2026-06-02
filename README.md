@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yash-yashwanth/yash-yashwanth/main/assets/banner.png" alt="Profile Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
-
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=YASH+YASHWANTH;AI+%26+DATA+SCIENCE+ENGINEER;FULL+STACK+ARCHITECT" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/yash-yashwanth/yash-yashwanth/main/assets/banner.svg" alt="Profile Banner" width="100%" />
 
   <p align="center">
     <a href="mailto:yashwanth@example.com"><img src="https://img.shields.io/badge/GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FFCC&labelColor=0D1117&color=00FFCC" /></a>
