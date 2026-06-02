@@ -97,14 +97,27 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yash-yashwanth&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&icon_color=00FFCC&title_color=00FFCC&text_color=c9d1d9" alt="Yash Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-yashwanth&theme=react&hide_border=true&background=0D1117&ring=00FFCC&fire=00FFCC&currStreakNum=ffffff" alt="Yash Streak" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=yash-yashwanth&show_icons=true&hide_border=true&bg_color=0D1117&icon_color=00FFCC&title_color=00FFCC&text_color=c9d1d9" alt="Yash Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-yashwanth&hide_border=true&background=0D1117&ring=00FFCC&fire=00FFCC&currStreakNum=ffffff&currStreakLabel=00FFCC&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="Yash Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-yashwanth&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=c9d1d9" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yash-yashwanth&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yash-yashwanth&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophies" />
 </div>
 
 ---
