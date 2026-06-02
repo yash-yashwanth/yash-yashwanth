@@ -1,114 +1,90 @@
-<!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=2ecc71&center=true&vCenter=true&width=800&lines=YASH+YASHWANTH;AI+%26+DATA+SCIENCE+ENGINEER;FULL+STACK+DEVELOPER" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/yash-yashwanth/yash-yashwanth/main/assets/banner.png" alt="Profile Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
 
-  <br/><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=YASH+YASHWANTH;AI+%26+DATA+SCIENCE+ENGINEER;FULL+STACK+ARCHITECT" alt="Typing SVG" />
 
-  <a href="#connect"><img src="https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/EXPLORE_3D-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/RESUME-2ecc71?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
-
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPTIMAL-2ecc71?style=for-the-badge&logo=cachet&logoColor=white" />
-  <img src="https://img.shields.io/badge/BUILDING-PHISHING_DETECTION-3498db?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/LOCATION-INDIA-e74c3c?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <p align="center">
+    <a href="mailto:yashwanth@example.com"><img src="https://img.shields.io/badge/GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FFCC&labelColor=0D1117&color=00FFCC" /></a>
+    <a href="https://linkedin.com/in/yash-yashwanth"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFCC&labelColor=0D1117&color=00FFCC" /></a>
+    <a href="https://github.com/yash-yashwanth"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FFCC&labelColor=0D1117&color=00FFCC" /></a>
+  </p>
 </div>
 
-<hr/>
-
-<!-- THE MISSION -->
-## 🛸 The Mission
-
-> **Engineer operating at the intersection of predictive logic and immersive UX.** I transform complex data into cinematic, high-performance applications. Currently specializing in AI-driven security, predictive data science models, and full-stack ecosystems.
+<br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Current_Focus-Machine_Learning_&_MERN-0052cc?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-India-e74c3c?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Open_for_Collaborations-2ecc71?style=flat-square" />
+  <h3><code>System.execute("Mission_Protocol")</code></h3>
+  <p><i>"Architecting resilient ecosystems at the convergence of predictive AI and immersive interfaces."</i></p>
 </div>
 
-<hr/>
+---
 
-<!-- TECHNICAL ARSENAL -->
-## 🛠️ Technical Arsenal [Kernel Modules]
+<details open>
+  <summary><h2>⚡ Core Infrastructure [Tech Stack]</h2></summary>
+  <br/>
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center"><b>Languages</b></td>
+        <td align="center"><b>Data & AI Models</b></td>
+        <td align="center"><b>Frontend Ecosystem</b></td>
+        <td align="center"><b>Backend & Cloud</b></td>
+      </tr>
+      <tr>
+        <td align="center"><img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c" /></td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,opencv" /></td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=react,html,css,tailwind,threejs" /></td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,docker,aws" /></td>
+      </tr>
+    </table>
+  </div>
+</details>
+
+<br/>
+
+---
+
+## 🌌 Deployed Architectures [Featured Projects]
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <h3>🚀 Languages & Logic</h3>
-      <br/>
-      <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,c,r" />
+    <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://github.com/yash-yashwanth/MIDDLEWARE-PHISHING-DETECTION-APP">
+          <img src="https://raw.githubusercontent.com/yash-yashwanth/yash-yashwanth/main/assets/phishing.png" width="100%" style="border-radius: 8px;" alt="Phishing Detector" />
+        </a>
+        <br/><br/>
+        <h3>🛡️ AI Phishing Detector Middleware</h3>
+        <p>A real-time cybersecurity middleware deploying machine learning to instantly detect, classify, and neutralize malicious phishing attacks on live network traffic.</p>
+        <img src="https://img.shields.io/badge/Status-Stable%20Prod-00FFCC?style=flat-square" /> 
+        <img src="https://img.shields.io/badge/Tech-Python%20%7C%20Scikit--Learn-3498db?style=flat-square" />
+      </div>
     </td>
-    <td align="center" width="50%">
-      <h3>🧠 AI & Data Science</h3>
-      <br/>
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,opencv" /> 
-      <br/>
-      *(Representing Keras, PyTorch, TF, OpenCV, Scikit-Learn)*
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🎨 Immersive UI & Frontend</h3>
-      <br/>
-      <img src="https://skillicons.dev/icons?i=react,threejs,tailwind,html,css" />
-    </td>
-    <td align="center" width="50%">
-      <h3>⚙️ Backend & Systems</h3>
-      <br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgresql,aws,docker,git" />
+    <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://github.com/yash-yashwanth/goldprediction">
+          <img src="https://raw.githubusercontent.com/yash-yashwanth/yash-yashwanth/main/assets/gold.png" width="100%" style="border-radius: 8px;" alt="Gold Prediction AI" />
+        </a>
+        <br/><br/>
+        <h3>📈 Predictive Gold Financial Modeling</h3>
+        <p>An advanced data science engine utilizing neural networks and predictive analytics to forecast historical and future gold price trajectories with high statistical accuracy.</p>
+        <img src="https://img.shields.io/badge/Status-Final%20Polish-f1c40f?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tech-TensorFlow%20%7C%20Pandas-3498db?style=flat-square" />
+      </div>
     </td>
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/ACTIVE_LEARNING-NEURAL_NETWORK_OPTIMIZATION-2ecc71?style=for-the-badge" />
-</div>
+### 🚀 Additional Projects
 
-<hr/>
+*   **[Express React Dashboard](https://github.com/yash-yashwanth/expressproj)** - Robust MERN stack dashboard bridging complex Express backend APIs with responsive React UI.
+*   **[Machine Learning Hub](https://github.com/yash-yashwanth/ML)** - Deep learning and Jupyter Notebook experimentations focusing on predictive modeling.
 
-<!-- FEATURED PROJECTS -->
-## 🌌 Technical Ecosystems & Featured Projects
+<br/>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <b>PHISHING DETECTOR</b><br/>
-        <img src="https://img.shields.io/badge/✅_STABLE_/_PROD-2ecc71?style=flat-square" />
-      </td>
-      <td align="center" width="33%">
-        <b>EXPRESS DASHBOARD</b><br/>
-        <img src="https://img.shields.io/badge/🚧_BETA_/_SCALING-f39c12?style=flat-square" />
-      </td>
-      <td align="center" width="33%">
-        <b>GOLD PREDICTION AI</b><br/>
-        <img src="https://img.shields.io/badge/✨_FINAL_POLISH-f1c40f?style=flat-square" />
-      </td>
-    </tr>
-  </table>
-</div>
+---
 
-### 🛡️ Middleware Phishing Detection App
-**Security • Machine Learning • Web**  
-A cybersecurity middleware solution designed to protect users from phishing links in real-time. Leverages machine learning models to analyze web domains and detect malicious characteristics.  
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/yash-yashwanth/MIDDLEWARE-PHISHING-DETECTION-APP)
-
-### 📊 Express React Data Dashboard
-**Full-Stack • MERN • Analytics**  
-A full-stack project utilizing an Express backend to fetch and serve robust datasets to a dynamic React component. Showcases efficient API integrations, modern UI components, and state management.  
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/yash-yashwanth/expressproj)
-
-### 💰 Gold Price Prediction
-**Python • Data Science • Predictive Analytics**  
-AI-driven data science notebook predicting historical and future gold price trends based on various economic indicators, providing interactive visualizations and predictive accuracy metrics.  
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/yash-yashwanth/goldprediction)
-
-<hr/>
-
-<!-- GITHUB ANALYTICS & SNAKE -->
-## 🐍 Contribution Graph
+## 📊 Telemetry & Analytics
 
 <div align="center">
   <picture>
@@ -116,51 +92,25 @@ AI-driven data science notebook predicting historical and future gold price tren
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yash-yashwanth/yash-yashwanth/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yash-yashwanth/yash-yashwanth/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yash-yashwanth&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&icon_color=00FFCC&title_color=00FFCC&text_color=c9d1d9" alt="Yash Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-yashwanth&theme=react&hide_border=true&background=0D1117&ring=00FFCC&fire=00FFCC&currStreakNum=ffffff" alt="Yash Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yash-yashwanth&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yash-yashwanth&label=Profile%20Views&color=00FFCC&style=flat-square" alt="Views" />
   <br/>
-  <i>"Consistency is the foundation of mastery."</i>
-</div>
-
-<hr/>
-
-## 📈 Vital Stats [System Diagnostics]
-
-<div align="center">
-  <a href="https://github.com/yash-yashwanth">
-    <img src="https://github-readme-stats.vercel.app/api?username=yash-yashwanth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=2ecc71&title_color=2ecc71&text_color=c9d1d9" alt="Yash's GitHub Stats" />
-  </a>
-  <a href="https://github.com/yash-yashwanth">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-yashwanth&theme=tokyonight&hide_border=true&background=0D1117&ring=2ecc71&fire=2ecc71&currStreakNum=ffffff" alt="Yash's GitHub Streak" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yash-yashwanth&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Yash's Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/System_Status-OPTIMAL-2ecc71?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Uptime-100%25-2ecc71?style=for-the-badge" />
-</div>
-
-<hr/>
-
-<!-- CONNECT -->
-## 📡 Mission Log: Save Game
-
-> *"Transforming complex data into elegant, immersive, and intelligent applications."*
-
-<div id="connect" align="center">
-  <a href="mailto:yashwanth@example.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/yash-yashwanth"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/yash-yashwanth"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yash-yashwanth&label=Profile%20Views&color=2ecc71&style=flat-square" alt="Visitor Counter" />
+  <p><i>System online. Ready for execution.</i></p>
 </div>
